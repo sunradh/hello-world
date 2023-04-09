@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-09T06:31:26.951Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="Hanfgnl3cab7p9HGf7e5" version="21.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-09T06:44:31.466Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="dDFy31oa9G88LrB8GNFc" version="21.1.5" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
     <mxGraphModel dx="1114" dy="543" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#003469" math="0" shadow="0">
       <root>
@@ -56,10 +56,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2070" value="Virtual Machine" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeColor=none;fillColor=#3399FF;shape=mxgraph.azure.virtual_machine;dashed=1;fontSize=14;fontColor=#004C99" parent="1" vertex="1">
-          <mxGeometry x="278.25" y="290" width="50" height="40" as="geometry" />
+          <mxGeometry x="278.25" y="270" width="50" height="40" as="geometry" />
         </mxCell>
         <mxCell id="MkONCTIsUJINHOFJXCYc-2085" value="Virtual Machine" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeColor=none;fillColor=#3399FF;shape=mxgraph.azure.virtual_machine;dashed=1;fontSize=14;fontColor=#004C99" vertex="1" parent="1">
-          <mxGeometry x="278.25" y="394" width="50" height="40" as="geometry" />
+          <mxGeometry x="267.5" y="380" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="MkONCTIsUJINHOFJXCYc-2089" value="Linux VM" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;strokeColor=none;strokeWidth=2;fillColor=#FFFFFF;fontFamily=Helvetica;fontSize=14;fontColor=#FFB366;opacity=75;verticalAlign=top;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="593" y="240" width="140" height="223" as="geometry" />
@@ -99,6 +99,12 @@
         </mxCell>
         <mxCell id="MkONCTIsUJINHOFJXCYc-2103" value="LB config:&lt;br&gt;Backend pools&lt;br&gt;Health probes" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="150" y="510" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="MkONCTIsUJINHOFJXCYc-2105" value="&amp;nbsp;Geo replication for failover scernario" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="770" y="520" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MkONCTIsUJINHOFJXCYc-2106" value="Enable IIS" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="268.25" y="470" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
